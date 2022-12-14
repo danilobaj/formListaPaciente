@@ -1,0 +1,39 @@
+{
+    "pacientes": [
+        {
+            "nome": "Felipe",
+            "peso": 85,
+            "altura": 1.86,
+            "gordura": 19.82,
+            "imc": 20 
+        },
+        {
+            "nome": "Pedro",
+            "peso": 55,
+            "altura": 1.66,
+            "gordura": 14.82,
+            "imc": 11 
+        },
+        {
+            "nome": "Daniel",
+            "peso": 70,
+            "altura": 1.80,
+            "gordura": 15.12,
+            "imc": 19 
+        },
+        {
+            "nome": "Camila",
+            "peso": 70,
+            "altura": 1.58,
+            "gordura": 17,
+            "imc": 22 
+        },
+        {
+            "nome": "Jorge",
+            "peso": 75,
+            "altura": 1.73,
+            "gordura": 25,
+            "imc": 22 
+        }
+    ]
+}
